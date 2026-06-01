@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Tooooools",
+    "creator": "Daniil Sukhovskoy",
+    "tags": ["image", "texture", "motif"],
+    "image": "img/captures-interfaces/Tooooools.png",
+    "url": "https://www.tooooools.app/",
+    "popularity": 100,
+    "date": "2026-05-27"
+  },
+
+{
+  "name": "Accidental Graphics",
+    "creator": "Jorne Scholiers",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Accidental-Graphics.png",
+    "url": "https://overgrootoma.github.io/Accidental-Graphics/apps/IMAGEine.html",
+    "popularity": 100,
+    "date": "2026-05-27"
+},
+  {
+    "name": "Ditherlicious",
+    "creator": "Jonas Wagner",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Ditherlicious.png",
+    "url": "https://29a.ch/ditherlicious/",
+    "popularity": 100,
+    "date": "2026-05-25)"
+  },
+  {
+    "name": "Bitmap Sorter",
+    "creator": "Larixk",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Bitmap-Sorter.png",
+    "url": "https://larixk.nl/experiments/sort/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Rutt Etra Izer",
+    "creator": "Felix Turner",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Rutt-Etra-Izer.png",
+    "url": "https://airtightinteractive.com/demos/js/ruttetra/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Image Glitch Tool",
+    "creator": "Georg",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Image-Glitch-Tool.png",
+    "url": "https://snorpey.github.io/jpg-glitch/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "JPEGKrusher",
+    "creator": "N/A",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/JPEGKrusher.png",
+    "url": "https://ajxs.github.io/jpk/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Glitch Image",
+    "creator": "Adam Fuhrer",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Glitch-Image.png",
+    "url": "https://glitchyimage.com/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Pixel Sorter",
+    "creator": "Kim Asendorf",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Pixel-Sorter.png",
+    "url": "https://pixel-sorter.com/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Cloudpaint",
+    "creator": "Martin Braun",
+    "tags": ["motif", "texture"],
+    "image": "img/captures-interfaces/Image-Cloudpaint.png",
+    "url": "https://cloudpaint.com/classic",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Neon Flames",
+    "creator": "Jonas Wagner",  
+    "tags": ["Texture", "Dessin"],
+    "image": "img/captures-interfaces/Neon-Flames.png",
+    "url": "https://29a.ch/sandbox/2011/neonflames/#",
+    "popularity": 100,
+    "date": "2026-29-05"
+  },
+  {
+    "name": "Asciii",
+    "creator": "ant(_nthony)",  
+    "tags": ["Image", "Texture", "Vidéo"],
+    "image": "img/captures-interfaces/Asciii.png",
+    "url": "https://www.asciii.com/",
+    "popularity": 100,
+    "date": "2026-29-05"
+  },
+  {
+    "name": "GridForm",
+    "creator": "geohndz",  
+    "tags": ["Texture", "Motif", "Vidéo"],
+    "image": "img/captures-interfaces/GridForm.png",
+    "url": "https://geohndz.github.io/GridForm/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Gradients",
+    "creator": "Juan Garcia",  
+    "tags": ["Texture"],
+    "image": "img/captures-interfaces/Gradients.png",
+    "url": "https://gradients.juangarcia.ch/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Instant Risograph",
+    "creator": "N/A",  
+    "tags": ["Image", "Texture"],
+    "image": "img/captures-interfaces/Instant-Risograph.png",
+    "url": "https://instantrisograph.com/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Gradientor",
+    "creator": "Anatoly Grashchenko",  
+    "tags": ["Texture"],
+    "image": "img/captures-interfaces/Gradientor.png",
+    "url": "https://gradientor.afterimage.cc/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Mandelbrot",
+    "creator": "Dillon",  
+    "tags": ["Texture"],
+    "image": "img/captures-interfaces/Mandelbrot.png",
+    "url": "https://codepen.io/Dillo/pen/WNqMYrP",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "RD Tool",
+    "creator": "Karl Sims",  
+    "tags": ["Texture"],
+    "image": "img/captures-interfaces/RD-Tool.png",
+    "url": "https://karlsims.com/rdtool.html",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Gridolyno",
+    "creator": "Fabio Fidanza",  
+    "tags": ["Texture", "Motif"],
+    "image": "img/captures-interfaces/Gridolyno.png",
+    "url": "https://www.fabiofidanza.com/gridolyno/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Flow",
+    "creator": "Grant Custer",  
+    "tags": ["Image", "Texture"],
+    "image": "img/captures-interfaces/Flow.png",
+    "url": "https://flow.constraint.systems/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Grid",
+    "creator": "Grant Custer",  
+    "tags": ["Image", "Motif", "Texture"],
+    "image": "img/captures-interfaces/Grid.png",
+    "url": "https://grid.constraint.systems/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Collapse",
+    "creator": "Grant Custer",
+    "tags": ["Image", "Texture"],
+    "image": "img/captures-interfaces/Collapse.png",
+    "url": "https://collapse.constraint.systems/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Glitch Art",
+    "creator": "Adam Fuhrer",
+    "tags": ["Texture"],
+    "image": "img/captures-interfaces/Glitch-Art.png",
+    "url": "https://glitchart.io/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Generative Knitting",
+    "creator": "Rosie Loraine",
+    "tags": ["Texture", "Motif"],
+    "image": "img/captures-interfaces/Generative-Knitting.png",
+    "url": "https://generativeknitting.rosieloraine.xyz/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  }
+]

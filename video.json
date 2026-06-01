@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Glitch text generator",
+    "creator": "stAllio",
+    "tags": ["video", "motif"],
+    "image": "img/captures-interfaces/Glitch-text-generator.png",
+    "url": "https://animalswithinanimals.com/generator/generator.html#",
+    "popularity": 100,
+    "date": "2026-05-30"
+  },
+  {
+    "name": "Space Type Generator",
+    "creator": "Kiel Danger Mutschelknaus",
+    "tags": ["Typographie", "Vidéo"],
+    "image": "img/captures-interfaces/Space-Type-Generator.png",
+    "url": "https://spacetypegenerator.com/",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "Machine",
+    "creator": "NOT Wieden+Kennedy",  
+    "tags": ["Dessin", "Vidéo"],
+    "image": "img/captures-interfaces/Machine.png",
+    "url": "https://notwk.london/machine",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "Asciii",
+    "creator": "ant(_nthony)",  
+    "tags": ["Image", "Texture", "Vidéo"],
+    "image": "img/captures-interfaces/Asciii.png",
+    "url": "https://www.asciii.com/",
+    "popularity": 100,
+    "date": "2026-29-05"
+  },
+  {
+    "name": "MotionStills",
+    "creator": "Jorne Scholiers",  
+    "tags": ["Vidéo"],
+    "image": "img/captures-interfaces/MotionStills.png",
+    "url": "https://overgrootoma.github.io/Accidental-Graphics/apps/MotionStills.html",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "GridForm",
+    "creator": "geohndz",  
+    "tags": ["Texture", "Motif", "Vidéo"],
+    "image": "img/captures-interfaces/GridForm.png",
+    "url": "https://geohndz.github.io/GridForm/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  }
+]

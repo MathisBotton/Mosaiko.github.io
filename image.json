@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Tooooools",
+    "creator": "Daniil Sukhovskoy",
+    "tags": ["image", "texture", "motif"],
+    "image": "img/captures-interfaces/Tooooools.png",
+    "url": "https://www.tooooools.app/",
+    "popularity": 100,
+    "date": "2026-05-27"
+  },
+
+  {
+    "name": "Alfio",
+    "creator": "Fabio Fidanza Studio",
+    "tags": ["image"],
+    "image": "img/captures-interfaces/Alfio.png",
+    "url": "https://www.fabiofidanza.com/alfio/",
+    "popularity": 100,
+    "date": "2026-05-27"
+  },
+
+   {
+    "name": "Accidental Graphics",
+    "creator": "Jorne Scholiers",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Accidental-Graphics.png",
+    "url": "https://overgrootoma.github.io/Accidental-Graphics/apps/IMAGEine.html",
+    "popularity": 100,
+    "date": "2026-05-27"
+  },
+
+  {
+    "name": "Glyphtrix",
+    "creator": "LandoNikko",
+    "tags": ["image"],
+    "image": "img/captures-interfaces/Glyphtrix.png",
+    "url": "https://glyphtrix.art/",
+    "popularity": 100,
+    "date": "2026-05-27"
+  },
+  {
+    "name": "Image Stripe Cutter",
+    "creator": "Sparta 3",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Stripe-Cutter.png",
+    "url": "https://www.stripecutter.com/",
+    "popularity": 80,
+    "date": "2026-05-22"
+  },
+  {
+    "name": "Ditherlicious",
+    "creator": "Jonas Wagner",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Ditherlicious.png",
+    "url": "https://29a.ch/ditherlicious/",
+    "popularity": 100,
+    "date": "2026-05-25)"
+  },
+  {
+    "name": "BDFM",
+    "creator": "DesignFamilyMarket team",
+    "tags": ["image"],
+    "image": "img/captures-interfaces/Image-BDFM.png",
+    "url": "https://bitmap.designfamilymarket.com/#/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+    {
+    "name": "Color Range Lab",
+    "creator": "Jorne Scholiers",
+    "tags": ["image"],
+    "image": "img/captures-interfaces/Image-Color-Range-Lab.png",
+    "url": "https://overgrootoma.github.io/Accidental-Graphics/apps/ColorRangeLab.html",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Smudge",
+    "creator": "Schultzschultz",
+    "tags": ["image"],
+    "image": "img/captures-interfaces/Image-Smudge.png",
+    "url": "https://schultzschultz.com/smudge/?_gl=1*g20sun*_up*MQ..*_ga*Mjg3ODAxMTc2LjE3Nzk4NzAxNTg.*_ga_WDJ692MVNP*czE3Nzk4NzAxNTYkbzEkZzAkdDE3Nzk4NzAxNTYkajYwJGwwJGg5NDI0MDMxMDY.",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Vector Halftone Maker",
+    "creator": "Xoihazard",
+    "tags": ["image"],
+    "image": "img/captures-interfaces/Image-Vector-Halftone-Maker.png",
+    "url": "https://halftone.xoihazard.com/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Bitmap Sorter",
+    "creator": "Larixk",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Bitmap-Sorter.png",
+    "url": "https://larixk.nl/experiments/sort/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Sift",
+    "creator": "Grant Custer",
+    "tags": ["image"],
+    "image": "img/captures-interfaces/Image-Sift.png",
+    "url": "https://sift.constraint.systems/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Rutt Etra Izer",
+    "creator": "Felix Turner",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Rutt-Etra-Izer.png",
+    "url": "https://airtightinteractive.com/demos/js/ruttetra/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Image Glitch Tool",
+    "creator": "Georg",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Image-Glitch-Tool.png",
+    "url": "https://snorpey.github.io/jpg-glitch/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "JPEGKrusher",
+    "creator": "N/A",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/JPEGKrusher.png",
+    "url": "https://ajxs.github.io/jpk/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Glitch Image",
+    "creator": "Adam Fuhrer",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Glitch-Image.png",
+    "url": "https://glitchyimage.com/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Pixel Sorter",
+    "creator": "Kim Asendorf",
+    "tags": ["image", "texture"],
+    "image": "img/captures-interfaces/Image-Pixel-Sorter.png",
+    "url": "https://pixel-sorter.com/",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Chromata",
+    "creator": "Michael Bromley",
+    "tags": ["image", "motif"],
+    "image": "img/captures-interfaces/Image-Chromata.png",
+    "url": "https://www.michaelbromley.co.uk/experiments/chromata/#",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "ZzArt",
+    "creator": "Frank Force",
+    "tags": ["image", "motif"],
+    "image": "img/captures-interfaces/Image-ZzArt.png",
+    "url": "https://zzart.3d2k.com/",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "UJI",
+    "creator": "Noah Doersing",
+    "tags": ["image", "motif"],
+    "image": "img/captures-interfaces/Image-UJI.png",
+    "url": "https://ghpages.noahdoersing.com/uji/",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Moving dots animation-generator",
+    "creator": "Dominik Seibold",
+    "tags": ["video", "image"],
+    "image": "img/captures-interfaces/Image-Moving-dots-animation-generator.png",
+    "url": "https://dominik.ws/art/movingdots/",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Dither Me This",
+    "creator": "Nathaniel",
+    "tags": ["image"],
+    "image": "img/captures-interfaces/Image-Dither-Me-This.png",
+    "url": "https://doodad.dev/dither-me-this/",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Gradient Generator",
+    "creator": "Nathaniel",
+    "tags": ["image"],
+    "image": "img/captures-interfaces/Image-Gradient-Generator.png",
+    "url": "https://doodad.dev/gradient-generator/",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Asciii",
+    "creator": "ant(_nthony)",  
+    "tags": ["Image", "Texture", "Vidéo"],
+    "image": "img/captures-interfaces/Asciii.png",
+    "url": "https://www.asciii.com/",
+    "popularity": 100,
+    "date": "2026-29-05"
+  },
+  {
+    "name": "PhotoGrid",
+    "creator": "Jorne Scholiers",  
+    "tags": ["Image"],
+    "image": "img/captures-interfaces/PhotoGrid.png",
+    "url": "https://overgrootoma.github.io/Accidental-Graphics/apps/fotogrid.html",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Effect",
+    "creator": "N/A",  
+    "tags": ["Image"],
+    "image": "img/captures-interfaces/Effect.png",
+    "url": "https://effect.app/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Instant Risograph",
+    "creator": "N/A",  
+    "tags": ["Image", "Texture"],
+    "image": "img/captures-interfaces/Instant-Risograph.png",
+    "url": "https://instantrisograph.com/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Dice-Mosaic-Generator",
+    "creator": "Adriano Moura",  
+    "tags": ["Image"],
+    "image": "img/captures-interfaces/Dice-Mosaic-Generator.png",
+    "url": "https://adrianomoura.github.io/MosaicDiceGenerator/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Riiso",
+    "creator": "Liam Esparraguera",  
+    "tags": ["Image"],
+    "image": "img/captures-interfaces/Riiso.png",
+    "url": "https://riso.lfesp.me/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Risoseparator",
+    "creator": "Axel Berggraf Egenæs",  
+    "tags": ["Image"],
+    "image": "img/captures-interfaces/Risoseparator.png",
+    "url": "https://www.risoseparator.tools/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Grainrad",
+    "creator": "Alim",  
+    "tags": ["Image"],
+    "image": "img/captures-interfaces/Grainrad.png",
+    "url": "https://grainrad.com/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Halftone Maker",
+    "creator": "N/A",  
+    "tags": ["Image"],
+    "image": "img/captures-interfaces/Halftone-Maker.png",
+    "url": "https://halftonemaker.com/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Flow",
+    "creator": "Grant Custer",  
+    "tags": ["Image", "texture"],
+    "image": "img/captures-interfaces/Flow.png",
+    "url": "https://flow.constraint.systems/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Grid",
+    "creator": "Grant Custer",
+    "tags": ["Image", "Motif", "Texture"],
+    "image": "img/captures-interfaces/Grid.png",
+    "url": "https://grid.constraint.systems/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Collapse",
+    "creator": "Grant Custer",
+    "tags": ["Image", "Texture"],
+    "image": "img/captures-interfaces/Collapse.png",
+    "url": "https://collapse.constraint.systems/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  }
+]

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mosaïko</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div id="popup">
+  <div>
+    <p>Mosaïko est une plateforme collaborative <br> de partage d’outils numériques gratuits <br> de création graphique</p>
+    <div>
+      <button class="close-btn" onclick="closePopup()">Explorer les outils</button>
+      <button onclick="location.href = 'https://forms.gle/u5eUCasut2i5yjGi9';">Proposer un outil</button>
+    </div>
+  </div>
+</div>
+
+<a id="logo" href="index.html">Mosaïko</a>
+<div id="navbar">
+    <a href="image.html">Image</a>
+    <a href="texture.html">Texture</a>
+    <a href="motif.html">Motif</a>
+    <a href="dessin.html">Dessin</a>
+    <a href="typographie.html">Typographie</a>
+    <a href="video.html">Vidéo</a>
+</div>
+<div id="btn-participate">
+  <a href="https://forms.gle/u5eUCasut2i5yjGi9">Proposer un outil</a>
+</div>
+<!-- <header>
+  <a id="logo" href="index.html">Mosaïko</a>
+  <div id="navbar">
+    <a href="image.html">Image</a>
+    <a href="">Texture</a>
+    <a href="">Motif</a>
+    <a href="">Dessin</a>
+    <a href="">Typographie</a>
+    <a href="">Vidéo</a>
+  </div>
+  <div id="btn-participate"> <a href="">Proposer un outil</a> </div>
+</header> -->
+
+<div id="viewport">
+<div id="container">
+<div id="grid"></div>
+</div>
+</div>
+
+<footer>
+<p>Politique de confidentialité</p>
+<p>© Mathis Botton 2026 | Tous droits réservés</p>
+<p>mathisbottondesign@gmail.com</p>
+</footer>
+
+<script src="script.js"></script>
+    <script>
+        // Fonction pour fermer le pop-up et empêcher qu'il réapparaisse
+        function closePopup() {
+            document.getElementById("popup").style.display = "none";
+
+            // Empêcher l'ouverture future du pop-up (en stockant un flag dans localStorage)
+            localStorage.setItem('popupClosed', 'true');
+        }
+
+        // Vérifier si le pop-up a déjà été fermé
+        if (!localStorage.getItem('popupClosed')) {
+            // Si non, afficher le pop-up après 2 secondes (pour simuler un délai)
+            setTimeout(function() {
+                document.getElementById("popup").style.display = "block";
+            }, 2000); // 2000 ms = 2 secondes
+        }
+    </script>
+
+
+
+</body>
+</html>

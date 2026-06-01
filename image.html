@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Image</title>
+
+  <!-- Lien vers le CSS -->
+    <link rel="stylesheet" href="css/styles.css">
+
+
+</head>
+<body>  
+
+<a id="logo" href="index.html">Mosaïko</a>
+<div id="navbar">
+    <a href="image.html">Image</a>
+    <a href="texture.html">Texture</a>
+    <a href="motif.html">Motif</a>
+    <a href="dessin.html">Dessin</a>
+    <a href="typographie.html">Typographie</a>
+    <a href="video.html">Vidéo</a>
+</div>
+<div id="btn-participate">
+  <a href="">Proposer un outil</a>
+</div>
+
+  <div class="tool-category">
+    <h1>Image</h1>
+    <p><strong><span id="tool-count"></span> outils</strong> différents</p>
+  </div>
+
+<div class="tool-sort">
+  <div>
+    <p>Filtrer par :</p>
+      <button onclick="sortCards('random')">Aléatoire</button>
+      <button onclick="sortCards('popularity')">Popularité</button>
+      <button onclick="sortCards('newest')">Nouveauté</button>
+      <button onclick="sortCards('alphabetical')">A → Z</button>
+  </div>
+    <input type="text" id="search" placeholder="Rechercher un outil..." oninput="applyFilters()">
+
+</div>
+
+
+<div class="tool-grid" id="tool-grid"></div>
+
+
+<footer>
+<p>Politique de confidentialité</p>
+<p>© Mathis Botton 2026 | Tous droits réservés</p>
+<p>mathisbottondesign@gmail.com</p>
+</footer>
+
+
+
+<script>
+let cardsData = [];
+let currentData = [];
+
+// Charger les données depuis le JSON
+fetch('image.json')
+  .then(response => response.json())
+  .then(data => {
+    cardsData = data;
+    currentData = [...cardsData];
+    renderCards(currentData);
+  });
+
+function renderCards(data) {
+  const grid = document.getElementById('tool-grid');
+  grid.innerHTML = '';
+
+  data.forEach(card => {
+    const div = document.createElement('div');
+    div.className = 'card';
+
+    div.innerHTML = `
+    <div style="cursor: pointer;" onclick="window.location='${card.url}';" >
+        <div class="top-part">
+          <div>
+            <h3 class="card-name" >${card.name}</h3>
+            <p><strong>Créateur :</strong> ${card.creator}</p>
+          </div>
+          <div class="tags">${card.tags.map(tag => `<span>${tag}</span>`).join('')}</div>
+        </div>
+        <div class="medium-part">
+          <img src="${card.image}" alt="${card.name}">
+        </div>
+        <div class="bottom-part">
+            <a>${card.url}</a>
+        </div>    
+      </div>
+    `;
+
+    grid.appendChild(div);
+  });
+}
+
+function sortCards(type) {
+  if (type === 'random') {
+    currentData.sort(() => Math.random() - 0.5);
+  }
+
+  if (type === 'popularity') {
+    currentData.sort((a, b) => b.popularity - a.popularity);
+  }
+
+  if (type === 'newest') {
+    currentData.sort((a, b) => new Date(b.date) - new Date(a.date));
+  }
+
+  if (type === 'alphabetical') {
+    currentData.sort((a, b) => a.name.localeCompare(b.name));
+  }
+
+  applyFilters();
+}
+
+function applyFilters() {
+  const search = document.getElementById('search').value.toLowerCase();
+
+  const filtered = currentData.filter(card => {
+    return (
+      card.name.toLowerCase().includes(search) ||
+      card.creator.toLowerCase().includes(search) ||
+      card.tags.join(' ').toLowerCase().includes(search)
+    );
+  });
+
+  renderCards(filtered);
+}
+
+// RECUPÉRER LA LONGUEUR DU JSON
+fetch('image.json')
+  .then(response => response.json())
+  .then(data => {
+    cardsData = data;
+    currentData = [...cardsData];
+
+    // 👉 AJOUT ICI
+    document.getElementById('tool-count').textContent = data.length;
+
+    renderCards(currentData);
+  });
+</script>
+
+</body>
+</html>

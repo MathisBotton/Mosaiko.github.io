@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Tooooools",
+    "creator": "Daniil Sukhovskoy",
+    "tags": ["image", "texture", "motif"],
+    "image": "img/captures-interfaces/Tooooools.png",
+    "url": "https://www.tooooools.app/",
+    "popularity": 100,
+    "date": "2026-05-27"
+  },
+
+ {
+    "name": "Glitch text generator",
+    "creator": "stAllio",
+    "tags": ["video", "motif"],
+    "image": "img/captures-interfaces/Glitch-text-generator.png",
+    "url": "https://animalswithinanimals.com/generator/generator.html#",
+    "popularity": 100,
+    "date": "2026-05-30"
+  },
+  {
+    "name": "Gridpaint",
+    "creator": "Schultzschultz",
+    "tags": ["motif", "typographie"],
+    "image": "img/captures-interfaces/Image-Gridpaint.png",
+    "url": "https://schultzschultz.com/gridpaint/?_gl=1*18pc61q*_up*MQ..*_ga*NTM4MjM0OTMxLjE3Nzk4NzA4NzY.*_ga_WDJ692MVNP*czE3Nzk4NzA4NzYkbzEkZzEkdDE3Nzk4NzA4ODMkajUzJGwwJGgxNjY1MzgwOTY.",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Tangents",
+    "creator": "Schultzschultz",
+    "tags": ["motif"],
+    "image": "img/captures-interfaces/Image-Tangents.png",
+    "url": "https://schultzschultz.com/tangents/?_gl=1*1nb5qjx*_up*MQ..*_ga*Mjg3ODAxMTc2LjE3Nzk4NzAxNTg.*_ga_WDJ692MVNP*czE3Nzk4NzAxNTYkbzEkZzAkdDE3Nzk4NzAxNTYkajYwJGwwJGg5NDI0MDMxMDY.",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Calligraphy",
+    "creator": "Schultzschultz",
+    "tags": ["typographie", "motif"],
+    "image": "img/captures-interfaces/Image-Calligraphy.png",
+    "url": "https://schultzschultz.com/calligraphy/?_gl=1*1o59lfr*_up*MQ..*_ga*Mjg3ODAxMTc2LjE3Nzk4NzAxNTg.*_ga_WDJ692MVNP*czE3Nzk4NzAxNTYkbzEkZzAkdDE3Nzk4NzAxNTYkajYwJGwwJGg5NDI0MDMxMDY.",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Chromata",
+    "creator": "Michael Bromley",
+    "tags": ["image", "motif"],
+    "image": "img/captures-interfaces/Image-Chromata.png",
+    "url": "https://www.michaelbromley.co.uk/experiments/chromata/#",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "ZzArt",
+    "creator": "Frank Force",
+    "tags": ["image", "motif"],
+    "image": "img/captures-interfaces/Image-ZzArt.png",
+    "url": "https://zzart.3d2k.com/",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "UJI",
+    "creator": "Noah Doersing",
+    "tags": ["image", "motif"],
+    "image": "img/captures-interfaces/Image-UJI.png",
+    "url": "https://ghpages.noahdoersing.com/uji/",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Pattern Generator",
+    "creator": "Nathaniel",
+    "tags": ["motif"],
+    "image": "img/captures-interfaces/Image-Pattern-Generator.png",
+    "url": "https://doodad.dev/pattern-generator/",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Cloudpaint",
+    "creator": "Martin Braun",
+    "tags": ["motif", "texture"],
+    "image": "img/captures-interfaces/Image-Cloudpaint.png",
+    "url": "https://cloudpaint.com/classic",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Patternico",
+    "creator": "Tanya",  
+    "tags": ["Motif"],
+    "image": "img/captures-interfaces/Patternico.png",
+    "url": "https://patternico.com/",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "Tylify",
+    "creator": "Luca Dalli",  
+    "tags": ["Motif"],
+    "image": "img/captures-interfaces/Tylify.png",
+    "url": "https://tylify.app/",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "Truchet Generator",
+    "creator": "swazara",  
+    "tags": ["Motif"],
+    "image": "img/captures-interfaces/Truchet-Generator.png",
+    "url": "https://swazara.github.io/truchet-web-generator/",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "Glyph Drawing Club",
+    "creator": "Heikki Lotvonen",  
+    "tags": ["Motif"],
+    "image": "img/captures-interfaces/Glyph-Drawing-Club.png",
+    "url": "https://glyphdrawing.club/",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "p5-t00ls",
+    "creator": "ffd8",  
+    "tags": ["Motif"],
+    "image": "img/captures-interfaces/P5-t00ls.png",
+    "url": "https://geohndz.github.io/GridForm/",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "GridForm",
+    "creator": "geohndz",  
+    "tags": ["Texture", "Motif", "Vidéo"],
+    "image": "img/captures-interfaces/GridForm.png",
+    "url": "https://geohndz.github.io/GridForm/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Hofmann",
+    "creator": "Giovanni Abbatepaolo",  
+    "tags": ["Motif", "Dessin"],
+    "image": "img/captures-interfaces/Hofmann.png",
+    "url": "https://bbtgnn.github.io/hofmann-1.0.0/index.html",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Gridolyno",
+    "creator": "Fabio Fidanza",  
+    "tags": ["Texture", "motif"],
+    "image": "img/captures-interfaces/Gridolyno.png",
+    "url": "https://www.fabiofidanza.com/gridolyno/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Grid",
+    "creator": "Grant Custer",
+    "tags": ["Image", "Motif", "Texture"],
+    "image": "img/captures-interfaces/Grid.png",
+    "url": "https://grid.constraint.systems/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Generative Knitting",
+    "creator": "Rosie Loraine",
+    "tags": ["Texture", "Motif"],
+    "image": "img/captures-interfaces/Generative-Knitting.png",
+    "url": "https://generativeknitting.rosieloraine.xyz/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  } 
+]

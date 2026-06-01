@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Machine",
+    "creator": "NOT Wieden+Kennedy",  
+    "tags": ["Dessin", "Vidéo"],
+    "image": "img/captures-interfaces/Machine.png",
+    "url": "https://notwk.london/machine",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "Epaf",
+    "creator": "Raphaël Bastide",  
+    "tags": ["Dessin"],
+    "image": "img/captures-interfaces/Epaf.png",
+    "url": "https://raphaelbastide.com/epaf/",
+    "popularity": 100,
+    "date": "2026-29-05"
+  },
+  {
+    "name": "Neon Flames",
+    "creator": "Jonas Wagner",  
+    "tags": ["Texture", "Dessin"],
+    "image": "img/captures-interfaces/Neon-Flames.png",
+    "url": "https://29a.ch/sandbox/2011/neonflames/#",
+    "popularity": 100,
+    "date": "2026-29-05"
+  },
+  {
+    "name": "Swing",
+    "creator": "Jorne Scholiers",  
+    "tags": ["Dessin"],
+    "image": "img/captures-interfaces/Swing.png",
+    "url": "https://overgrootoma.github.io/Accidental-Graphics/apps/Swing.html",
+    "popularity": 100,
+    "date": "2026-29-05"
+  },
+  {
+    "name": "Harmony",
+    "creator": "mrdoob",  
+    "tags": ["Dessin"],
+    "image": "img/captures-interfaces/Harmony.png",
+    "url": "https://mrdoob.github.io/harmony/",
+    "popularity": 100,
+    "date": "2026-29-05"
+  },
+  {
+    "name": "tympanus",
+    "creator": "Maximilian Berndt",  
+    "tags": ["Dessin"],
+    "image": "img/captures-interfaces/Tympanus.png",
+    "url": "https://tympanus.net/Tutorials/RisoPrinting/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Mono-Tool",
+    "creator": "Lena Weber",  
+    "tags": ["Dessin"],
+    "image": "img/captures-interfaces/Mono-Tool.png",
+    "url": "https://www.aspektedesrasters.de/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Hofmann",
+    "creator": "Giovanni Abbatepaolo",  
+    "tags": ["Motif", "Dessin"],
+    "image": "img/captures-interfaces/Hofmann.png",
+    "url": "https://bbtgnn.github.io/hofmann-1.0.0/index.html",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Kidpix",
+    "creator": "Craig Hickman",
+    "tags": ["Dessin"],
+    "image": "img/captures-interfaces/Kidpix.png",
+    "url": "https://kidpix.app/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Blob Sketch",
+    "creator": "Colin Reid",
+    "tags": ["Dessin"],
+    "image": "img/captures-interfaces/Blob-Sketch.png",
+    "url": "https://cpreid2.github.io/blobSketch/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  }
+]

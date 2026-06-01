@@ -1,0 +1,110 @@
+[
+  {
+    "name": "ThreeJS",
+    "creator": "Pavel Laptev",
+    "tags": ["typographie", "video"],
+    "image": "img/captures-interfaces/Image-ThreeJS.png",
+    "url": "https://pavellaptev.github.io/kinetik-typography-three-js/#/spiral",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Moving dots animation-generator",
+    "creator": "Dominik Seibold",
+    "tags": ["video", "image"],
+    "image": "img/captures-interfaces/Image-Moving-dots-animation-generator.png",
+    "url": "https://dominik.ws/art/movingdots/",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Gridpaint",
+    "creator": "Schultzschultz",
+    "tags": ["motif", "typographie"],
+    "image": "img/captures-interfaces/Image-Gridpaint.png",
+    "url": "https://schultzschultz.com/gridpaint/?_gl=1*18pc61q*_up*MQ..*_ga*NTM4MjM0OTMxLjE3Nzk4NzA4NzY.*_ga_WDJ692MVNP*czE3Nzk4NzA4NzYkbzEkZzEkdDE3Nzk4NzA4ODMkajUzJGwwJGgxNjY1MzgwOTY.",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Scriptscript",
+    "creator": "Schultzschultz",
+    "tags": ["typographie"],
+    "image": "img/captures-interfaces/Image-Scriptscript.png",
+    "url": "https://schultzschultz.com/scriptscript/?_gl=1*hozebn*_up*MQ..*_ga*Mjg3ODAxMTc2LjE3Nzk4NzAxNTg.*_ga_WDJ692MVNP*czE3Nzk4NzAxNTYkbzEkZzAkdDE3Nzk4NzAxNTYkajYwJGwwJGg5NDI0MDMxMDY.",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "Calligraphy",
+    "creator": "Schultzschultz",
+    "tags": ["typographie", "motif"],
+    "image": "img/captures-interfaces/Image-Calligraphy.png",
+    "url": "https://schultzschultz.com/calligraphy/?_gl=1*1o59lfr*_up*MQ..*_ga*Mjg3ODAxMTc2LjE3Nzk4NzAxNTg.*_ga_WDJ692MVNP*czE3Nzk4NzAxNTYkbzEkZzAkdDE3Nzk4NzAxNTYkajYwJGwwJGg5NDI0MDMxMDY.",
+    "popularity": 100,
+    "date": "2026-05-27)"
+  },
+  {
+    "name": "ThreeJS",
+    "creator": "Pavel Laptev",
+    "tags": ["typographie", "video"],
+    "image": "img/captures-interfaces/Image-ThreeJS.png",
+    "url": "https://pavellaptev.github.io/kinetik-typography-three-js/#/spiral",
+    "popularity": 100,
+    "date": "2026-05-30)"
+  },
+  {
+    "name": "Fracture",
+    "creator": "Elise Bosmans",
+    "tags": ["Typographie"],
+    "image": "img/captures-interfaces/Fracture.png",
+    "url": "https://fracture.vdvm.be/",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "Space Type Generator",
+    "creator": "Kiel Danger Mutschelknaus",
+    "tags": ["Typographie", "Vidéo"],
+    "image": "img/captures-interfaces/Space-Type-Generator.png",
+    "url": "https://spacetypegenerator.com/",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "Particles Attract Repel",
+    "creator": "b2renger",  
+    "tags": ["Typographie"],
+    "image": "img/captures-interfaces/Particles-Attract-Repel.png",
+    "url": "https://b2renger.github.io/p5js_typo/particles_attract_repel/index.html",
+    "popularity": 100,
+    "date": "2026-30-05"
+  },
+  {
+    "name": "Ascii Automata",
+    "creator": "Heikki Lotvonen",  
+    "tags": ["Typographie"],
+    "image": "img/captures-interfaces/Ascii-Automata.png",
+    "url": "https://hlnet.neocities.org/ascii-automata/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Il-Verse",
+    "creator": "Heikki Lotvonen",  
+    "tags": ["Typographie"],
+    "image": "img/captures-interfaces/Il-Verse.png",
+    "url": "https://hlnet.neocities.org/il-verse/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  },
+  {
+    "name": "Type",
+    "creator": "Grant Custer",  
+    "tags": ["Typographie"],
+    "image": "img/captures-interfaces/Type.png",
+    "url": "https://type.constraint.systems/",
+    "popularity": 100,
+    "date": "2026-28-05"
+  }
+]
